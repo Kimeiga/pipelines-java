@@ -1,3 +1,4 @@
+[![Build Status](https://kimeiga.visualstudio.com/Pipelines-Java/_apis/build/status/Kimeiga.pipelines-java?branchName=master)](https://kimeiga.visualstudio.com/Pipelines-Java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
